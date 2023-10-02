@@ -24,6 +24,22 @@ If you found this calculator app useful, don't forget to give us a star on GitHu
   
 9. Testing: Leverage GetX's simplicity for testing the LoginController and UI interactions, ensuring a robust and bug-free login experience.
 
+10. GetX Integration: Integrate the GetX library into your Flutter project to simplify state management and navigation.
+11. 
+### Creating a Image picler with GetX:
+
+1. Image Picker Widget: Create a Flutter widget that uses the image_picker package to allow users to select images from their device's gallery or camera.
+
+2. GetX Controller: Implement a GetX controller to manage the selected image and any related states. This controller can be used to track and update the selected image.
+
+3. UI Binding: Use GetX's reactive state management to bind the selected image to your UI. This ensures that the UI updates automatically when the user picks an image.
+
+4. Navigation: Implement navigation using GetX's route management to display the image picker widget within your app's navigation flow.
+
+5. Error Handling: Use GetX's error handling capabilities to manage any issues that may arise during the image selection process, such as permissions errors or image loading problems.
+
+6. Optional Features: You can also incorporate additional features like image compression or validation before saving or using the selected image in your app.
+
 ## Download the ZIP File:  
 Download the calculator app ZIP file now and simplify your math tasks effortlessly!
 
